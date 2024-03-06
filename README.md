@@ -1,4 +1,8 @@
-### Hi there 👋
+### About Me
+I am an active developer and supporter of [MATSim](https://www.matsim.org/), a leading open-source framework dedicated to the simulation of transport systems. My involvement with MATSim spans from contributing to its core development, enhancing its functionality, to advocating for its adoption in solving real-world transportation problems. Through this work, I strive to push the boundaries of how we understand and improve mobility in urban and regional contexts, leveraging MATSim's powerful capabilities to model complex transportation scenarios and devise sustainable solutions. Let's connect to discuss how we can innovate and transform transportation together
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/steffen-axer-1923281b1/)
+
 
 <!--
 **steffenaxer/steffenaxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
